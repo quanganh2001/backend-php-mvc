@@ -1,3 +1,17 @@
+Nội dung bài học
+
+[1. Cài đặt code editor](#cài-đặt-code-editor)
+
+[2. Cài đặt plugin cho MVC](#cài-đặt-plugin-cho-mvc)
+
+[3. Tinh chỉnh một số thứ](#tinh-chỉnh-một-số-thứ)
+
+[View In Browser](#view-in-browser)
+	
+[Config để vào trình duyệt](#config-để-vào-được-trình-duyệt)
+	
+[Test Emmet](#test-emmet)
+	
 # Cài đặt code editor
 - Ở đây chúng ta sẽ sử dụng phần mềm Sublime Text.
 - Truy cập vào website: https://www.sublimetext.com/ và vào mục Download for Windows
